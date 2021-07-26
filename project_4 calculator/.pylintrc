@@ -1,0 +1,2 @@
+[MASTER]
+init-hook='import sys; sys.path.append("C:/Users/Bruker/Documents/Skole/4.semester/Datateknologi/Øvinger/project_4")'
